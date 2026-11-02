@@ -1,5 +1,5 @@
 -- ============================================================================
--- RLS Attack Lab: fix.sql  (Vibe Coding 101, week 7)
+-- RLS Attack Lab: fix.sql  (Building Software with AI, week 7)
 -- ============================================================================
 -- Run this in the Supabase SQL Editor AFTER you have attacked the table
 -- created by setup.sql. It turns on row-level security (RLS) and adds

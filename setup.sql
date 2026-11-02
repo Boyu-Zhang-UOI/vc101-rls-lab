@@ -1,5 +1,5 @@
 -- ============================================================================
--- RLS Attack Lab: setup.sql  (Vibe Coding 101, week 7)
+-- RLS Attack Lab: setup.sql  (Building Software with AI, week 7)
 -- ============================================================================
 -- Run this in the SQL Editor of a NEW, EMPTY practice project in Supabase.
 --
