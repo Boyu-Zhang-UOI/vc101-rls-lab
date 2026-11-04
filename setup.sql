@@ -1,5 +1,5 @@
 -- ============================================================================
--- RLS Attack Lab: setup.sql  (Building Software with AI, week 7)
+-- RLS Attack Lab: setup.sql  (Building Apps with AI, week 13)
 -- ============================================================================
 -- Run this in the SQL Editor of a NEW, EMPTY practice project in Supabase.
 --
