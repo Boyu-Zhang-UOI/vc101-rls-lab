@@ -34,7 +34,7 @@ create table public.guestbook (
 insert into public.guestbook (name, message, is_public) values
   ('Ada',    'Lovely site! Signed from the library.',                            true),
   ('Grace',  'Your game made me laugh. Keep going!',                             true),
-  ('Alan',   'Found you through the class Project Fair.',                        true),
+  ('Alan',   'Found you through the class presentations.',                      true),
   ('Katherine', 'The dark mode looks great on my phone.',                        true),
   ('Linus',  'PRIVATE note to the owner: my (fake) phone number is 555-0100.',   false),
   ('Margaret', 'PRIVATE: please do not publish this. My (fake) email is margaret@example.com.', false);
